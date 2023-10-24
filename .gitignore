@@ -3,3 +3,4 @@
 /paper_exps/data
 /paper_exps/figs
 *.zip
+/paper_exps/uci/checkpoints
